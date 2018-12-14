@@ -9,7 +9,6 @@
     "start": "next start -p 8000",
     "heroku-postbuild": "npm run build",
     "test": "echo \"Error: no yet specified\" && exit 1 "
- 
   },
   "keywords": [],
   "author": "",
